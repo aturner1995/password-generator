@@ -14,5 +14,6 @@ The remote site is hosted on GitHub Pages
 https://aturner1995.github.io/password-generator/
 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/120421650/215539998-35510c3a-24a6-4d26-95b5-0ef3b91516a8.png)
 
 
