@@ -2,7 +2,7 @@
 
 ## Description
 
-A password generator that features dynmically updated HTML and CSS powered by Javascript. Select a character count between 8-128 characters and your choice of lowercase, uppercase, numbers and special characters.
+A password generator that features dynamically updated HTML and CSS powered by Javascript. Select a character count between 8-128 characters and your choice of lowercase, uppercase, numbers and special characters.
 
 This repo contains the HTML, CSS, and Javascript to create this website.
 
